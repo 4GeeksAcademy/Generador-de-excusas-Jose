@@ -9,7 +9,7 @@ window.onload = function() {
   let who = ['You mama', 'My dinosaur', 'The president', 'My brain'];
 let action = ['ate', 'peed', 'crushed', 'broke'];
 let what = ['my a**', 'my d***', 'my pc'];
-let when = ['before the class', 'when I was sleeping', 'while I was exercising', 'during my lunch', 'while I was praying'];
+let when = ['before the class', 'when I was sleeping', 'while I was in the bathroom', 'during my lunch', 'while I was praying'];
 
 var excusa= document.getElementById("excuse");
 
